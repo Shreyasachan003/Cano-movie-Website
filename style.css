@@ -39,7 +39,9 @@ nav {
 
 nav img {
     /* color: rgb(82, 7, 7); */
-    width: 40px;
+    width: 70px;
+    right: 97px;
+    top: 10px;;
     position: relative;
     z-index: 10;
 }
@@ -251,6 +253,10 @@ footer .questions {
 
     nav {
         max-width: 90vw;
+    }
+    nav img{
+         width: 40px;
+        z-index: 10;
     }
 
     .first {
